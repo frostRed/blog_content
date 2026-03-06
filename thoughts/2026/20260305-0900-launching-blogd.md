@@ -1,5 +1,4 @@
 ---
-title: "blogd 启动草图"
 tags:
   - build
   - architecture
