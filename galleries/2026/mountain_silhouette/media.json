@@ -1,0 +1,43 @@
+{
+  "images": [
+    {
+      "id": "001",
+      "alt": "从公园中远望层叠的群山",
+      "caption": "随着视线的抬升，似乎一层一层揭开了自然之母的面纱。",
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "thumb": "galleries/mountain_silhouette/galleries_DSC04565-thumb-640.jpeg",
+        "card": "galleries/mountain_silhouette/galleries_DSC04565-card-1200.jpeg",
+        "view": "galleries/mountain_silhouette/galleries_DSC04565-view-1800.jpeg",
+        "lightbox": "galleries/mountain_silhouette/galleries_DSC04565-lightbox-2800.jpeg"
+      }
+    },
+    {
+      "id": "002",
+      "alt": "远处的一座大山",
+      "caption": "Plate 02：流畅的身线似乎能让我们的心灵也随之舒展。",
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "thumb": "galleries/mountain_silhouette/galleries_DSC04566-thumb-640.jpeg",
+        "card": "galleries/mountain_silhouette/galleries_DSC04566-card-1200.jpeg",
+        "view": "galleries/mountain_silhouette/galleries_DSC04566-view-1800.jpeg",
+        "lightbox": "galleries/mountain_silhouette/galleries_DSC04566-lightbox-2800.jpeg"
+      }
+    },
+    {
+      "id": "003",
+      "alt": "湖边码头下的夕阳",
+      "caption": "Plate 03：山谷的怀抱足以承载太阳。",
+      "width": 1800,
+      "height": 1350,
+      "variants": {
+        "thumb": "galleries/mountain_silhouette/galleries_IMG_7964-thumb-640.jpeg",
+        "card": "galleries/mountain_silhouette/galleries_IMG_7964-card-1200.jpeg",
+        "view": "galleries/mountain_silhouette/galleries_IMG_7964-view-1800.jpeg",
+        "lightbox": "galleries/mountain_silhouette/galleries_IMG_7964-lightbox-2800.jpeg"
+      }
+    }
+  ]
+}
