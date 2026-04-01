@@ -37,6 +37,11 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "This thought is here to verify three things:\n\n- A single piece can carry multiple tags.\n- Chinese tags display and group correctly.\n- Tags with spaces can be clicked and open their aggregation page."
+    "body_markdown": "This thought is here to verify three things:\n\n- A single piece can carry multiple tags.\n- Chinese tags display and group correctly.\n- Tags with spaces can be clicked and open their aggregation page.",
+    "tags": [
+      "rust",
+      "product experience",
+      "release note"
+    ]
   }
 }

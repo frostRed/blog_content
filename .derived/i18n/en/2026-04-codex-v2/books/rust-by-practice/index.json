@@ -42,6 +42,12 @@
   "content": {
     "title": "Rust by Practice Notes",
     "summary": "Rust practice notes organized by chapter.",
-    "body_markdown": "This is a small chapter-based notebook, meant so that each chapter can be read on its own."
+    "body_markdown": "This is a small chapter-based notebook, meant so that each chapter can be read on its own.",
+    "tags": [
+      "rust",
+      "book",
+      "product experience",
+      "reading notes"
+    ]
   }
 }

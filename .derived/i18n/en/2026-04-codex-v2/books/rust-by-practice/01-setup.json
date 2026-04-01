@@ -42,6 +42,12 @@
   "content": {
     "title": "Environment and Project Layout",
     "summary": "Start by establishing a stable directory structure and build routine.",
-    "body_markdown": "Chapter 1 focuses on project layout.\n\n- A backend service `blogd`\n- A frontend app `apps/blog-web`\n- A content directory `content/`"
+    "body_markdown": "Chapter 1 focuses on project layout.\n\n- A backend service `blogd`\n- A frontend app `apps/blog-web`\n- A content directory `content/`",
+    "tags": [
+      "rust",
+      "book",
+      "product experience",
+      "reading notes"
+    ]
   }
 }

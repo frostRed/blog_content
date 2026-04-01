@@ -33,6 +33,7 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "If the default assumption behind vibe coding is that no human will read the code, then maybe the constraint that each file stay under a few hundred lines no longer means much. Maybe it is worth trying a switch from mono repo to mono file.\n\nBut going all the way at once, cutting out the compiler and having the model generate assembly or even binaries directly, still seems a bit too radical. Maybe what is needed is another translation layer in the middle, one adapted to the model. \"Any problem can be solved by adding another layer in the middle.\""
+    "body_markdown": "If the default assumption behind vibe coding is that no human will read the code, then maybe the constraint that each file stay under a few hundred lines no longer means much. Maybe it is worth trying a switch from mono repo to mono file.\n\nBut going all the way at once, cutting out the compiler and having the model generate assembly or even binaries directly, still seems a bit too radical. Maybe what is needed is another translation layer in the middle, one adapted to the model. \"Any problem can be solved by adding another layer in the middle.\"",
+    "tags": []
   }
 }

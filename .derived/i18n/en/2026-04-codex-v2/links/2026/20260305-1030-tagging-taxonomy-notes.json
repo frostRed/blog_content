@@ -41,6 +41,11 @@
   "content": {
     "title": "Tagging and Taxonomy: Reading Notes",
     "summary": "Adding one more links sample to verify that Chinese and spaced tags also aggregate in link notes.",
-    "body_markdown": "This link note is used as a tag sample.\n\nMain check: after clicking the same tag from the timeline, you should see mixed results from thoughts, posts, and links."
+    "body_markdown": "This link note is used as a tag sample.\n\nMain check: after clicking the same tag from the timeline, you should see mixed results from thoughts, posts, and links.",
+    "tags": [
+      "product experience",
+      "release note",
+      "deep dive"
+    ]
   }
 }

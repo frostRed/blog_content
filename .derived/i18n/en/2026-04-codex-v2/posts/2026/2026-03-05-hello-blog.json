@@ -40,6 +40,10 @@
   "content": {
     "title": "Hello, blog.jelada.dev",
     "summary": "This is the first post, used to verify the full pipeline for the posts list, detail page, RSS, and sitemap.",
-    "body_markdown": "Welcome to the new blog site.\n\nThis site is for display only, with no online editing. All content lives in the repository and is managed in Markdown.\n\n```rust\nfn main() {\n    println!(\"blogd is live\");\n}\n```"
+    "body_markdown": "Welcome to the new blog site.\n\nThis site is for display only, with no online editing. All content lives in the repository and is managed in Markdown.\n\n```rust\nfn main() {\n    println!(\"blogd is live\");\n}\n```",
+    "tags": [
+      "release",
+      "blog"
+    ]
   }
 }

@@ -36,6 +36,10 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "Today I settled the main direction for the blog: a standalone service, its own domain, and content managed entirely through Git."
+    "body_markdown": "Today I settled the main direction for the blog: a standalone service, its own domain, and content managed entirely through Git.",
+    "tags": [
+      "build",
+      "architecture"
+    ]
   }
 }

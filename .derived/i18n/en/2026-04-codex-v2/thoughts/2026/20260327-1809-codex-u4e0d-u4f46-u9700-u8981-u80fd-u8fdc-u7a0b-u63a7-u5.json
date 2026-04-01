@@ -33,6 +33,7 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "Codex needs more than remote control. It also needs to be able to log into remote machines over `ssh` on its own."
+    "body_markdown": "Codex needs more than remote control. It also needs to be able to log into remote machines over `ssh` on its own.",
+    "tags": []
   }
 }

@@ -33,6 +33,7 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "Even if GPT-5.4 Pro drafts a detailed RFC, and Codex then breaks it down into milestones for implementation, once you are dealing with tens of thousands of lines of code, it is still hard to know exactly how the planned set and the implemented set line up."
+    "body_markdown": "Even if GPT-5.4 Pro drafts a detailed RFC, and Codex then breaks it down into milestones for implementation, once you are dealing with tens of thousands of lines of code, it is still hard to know exactly how the planned set and the implemented set line up.",
+    "tags": []
   }
 }

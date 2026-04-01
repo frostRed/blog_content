@@ -33,6 +33,7 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "For code generation, LLMs are already more than capable. Maybe the next domain is ops and security. Imagine this: a truly sharp security engineer watching every server log around the clock without sleep. That would be a real watchdog."
+    "body_markdown": "For code generation, LLMs are already more than capable. Maybe the next domain is ops and security. Imagine this: a truly sharp security engineer watching every server log around the clock without sleep. That would be a real watchdog.",
+    "tags": []
   }
 }

@@ -41,6 +41,11 @@
   "content": {
     "title": "Tag aggregation sample: cross-type reuse",
     "summary": "An extra post to verify how tags aggregate across thoughts, posts, and links.",
-    "body_markdown": "This post is sample content for the tag system.\n\nThe goal is not to lay out a complete methodology, but to verify:\n\n1. The tag aggregation page can interleave different content types.\n2. The context of the same tag remains clear across different types.\n3. Index pages do not turn into thin pages just because of \"single-post tags\"."
+    "body_markdown": "This post is sample content for the tag system.\n\nThe goal is not to lay out a complete methodology, but to verify:\n\n1. The tag aggregation page can interleave different content types.\n2. The context of the same tag remains clear across different types.\n3. Index pages do not turn into thin pages just because of \"single-post tags\".",
+    "tags": [
+      "product experience",
+      "release note",
+      "content strategy"
+    ]
   }
 }

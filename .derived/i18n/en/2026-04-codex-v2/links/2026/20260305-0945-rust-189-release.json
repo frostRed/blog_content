@@ -40,6 +40,10 @@
   "content": {
     "title": "After Rust 1.89: the engineering experience keeps improving",
     "summary": "The most notable part of this release is the steady improvement in incremental compilation and diagnostic reliability.",
-    "body_markdown": "This link note records my core takeaway after reading the Rust 1.89 release notes.\n\nWhat matters most to me:\n\n- Incremental compilation is more stable in large codebases.\n- Several error messages are more helpful for day-to-day debugging.\n\nIf you maintain a medium-to-large Rust codebase, this version is worth upgrading and validating soon."
+    "body_markdown": "This link note records my core takeaway after reading the Rust 1.89 release notes.\n\nWhat matters most to me:\n\n- Incremental compilation is more stable in large codebases.\n- Several error messages are more helpful for day-to-day debugging.\n\nIf you maintain a medium-to-large Rust codebase, this version is worth upgrading and validating soon.",
+    "tags": [
+      "rust",
+      "release-note"
+    ]
   }
 }

@@ -36,6 +36,10 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "I'm planning to give the blog a paper-like texture instead of following the usual purple dark-theme template route."
+    "body_markdown": "I'm planning to give the blog a paper-like texture instead of following the usual purple dark-theme template route.",
+    "tags": [
+      "ui",
+      "notes"
+    ]
   }
 }

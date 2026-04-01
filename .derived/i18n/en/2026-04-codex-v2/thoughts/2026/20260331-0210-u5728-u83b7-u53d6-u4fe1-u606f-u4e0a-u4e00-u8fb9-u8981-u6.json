@@ -33,6 +33,7 @@
     "chapter_no": null
   },
   "content": {
-    "body_markdown": "For gathering information, one side needs `web fetch`, and the other needs access to a remote machine.\n\nFor workflow orchestration, there needs to be a feedback loop: the spec should be questioned and refined again and again, and the fit between the code and the spec should be questioned again and again too.\n\nIn the end, there also needs to be a tool that lets a person grasp the whole picture and steer it remotely."
+    "body_markdown": "For gathering information, one side needs `web fetch`, and the other needs access to a remote machine.\n\nFor workflow orchestration, there needs to be a feedback loop: the spec should be questioned and refined again and again, and the fit between the code and the spec should be questioned again and again too.\n\nIn the end, there also needs to be a tool that lets a person grasp the whole picture and steer it remotely.",
+    "tags": []
   }
 }

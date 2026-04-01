@@ -37,6 +37,9 @@
   },
   "content": {
     "title": "Publishing test",
-    "body_markdown": "Testing the publish flow and checking whether the push goes through."
+    "body_markdown": "Testing the publish flow and checking whether the push goes through.",
+    "tags": [
+      "test"
+    ]
   }
 }

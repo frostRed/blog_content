@@ -42,6 +42,12 @@
   "content": {
     "title": "Content Model and Index",
     "summary": "Map thoughts, posts, and books into a unified index.",
-    "body_markdown": "Chapter 2 focuses on the content model.\n\nThe index is built once when the service starts, and during runtime it serves only read-only queries, avoiding repeated Markdown parsing on each request."
+    "body_markdown": "Chapter 2 focuses on the content model.\n\nThe index is built once when the service starts, and during runtime it serves only read-only queries, avoiding repeated Markdown parsing on each request.",
+    "tags": [
+      "rust",
+      "book",
+      "product experience",
+      "reading notes"
+    ]
   }
 }
