@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:58:16.508893349+00:00",
+  "source": {
+    "id": "link:20260305-1030-tagging-taxonomy-notes",
+    "kind": "link",
+    "collection": "links",
+    "stem": "20260305-1030-tagging-taxonomy-notes",
+    "title": "Tagging 与 Taxonomy：读后摘记",
+    "summary": "补一条 links 样本，验证中文/空格标签在链接笔记中也能聚合。",
+    "published_at": "2026-03-05T10:30:00+00:00",
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:f9a9ca47f55fa0fd",
+    "tags": [
+      "产品体验",
+      "release note",
+      "deep dive"
+    ],
+    "path": "/links/20260305-1030-tagging-taxonomy-notes",
+    "markdown_path": "/links/20260305-1030-tagging-taxonomy-notes.md",
+    "meta_path": "/links/20260305-1030-tagging-taxonomy-notes.meta.json",
+    "content_path": "links/2026/20260305-1030-tagging-taxonomy-notes.md",
+    "reply_to_path": null,
+    "source_title": "Tag (metadata)",
+    "source_host": "en.wikipedia.org",
+    "target_url": "https://en.wikipedia.org/wiki/Tag_(metadata)",
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "title": "Tagging and Taxonomy: Reading Notes",
+    "summary": "Adding one more links sample to verify that Chinese and spaced tags also aggregate in link notes.",
+    "body_markdown": "This link note is used as a tag sample.\n\nMain check: after clicking the same tag from the timeline, you should see mixed results from thoughts, posts, and links."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:57:28.955306456+00:00",
+  "source": {
+    "id": "chapter:rust-by-practice/01-setup",
+    "kind": "chapter",
+    "collection": "books",
+    "stem": "01-setup",
+    "title": "环境与项目布局",
+    "summary": "先建立稳定的目录结构和构建习惯。",
+    "published_at": null,
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:5615e330df5028d5",
+    "tags": [
+      "rust",
+      "book",
+      "产品体验",
+      "reading notes"
+    ],
+    "path": "/books/rust-by-practice/01-setup",
+    "markdown_path": "/books/rust-by-practice/01-setup.md",
+    "meta_path": "/books/rust-by-practice/01-setup.meta.json",
+    "content_path": "books/rust-by-practice/01-setup.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": "/books/rust-by-practice",
+    "book_title": "Rust by Practice Notes",
+    "chapter_no": 1
+  },
+  "content": {
+    "title": "Environment and Project Layout",
+    "summary": "Start by establishing a stable directory structure and build routine.",
+    "body_markdown": "Chapter 1 focuses on project layout.\n\n- A backend service `blogd`\n- A frontend app `apps/blog-web`\n- A content directory `content/`"
+  }
+}

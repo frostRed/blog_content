@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:57:35.392001664+00:00",
+  "source": {
+    "id": "chapter:rust-by-practice/02-data-model",
+    "kind": "chapter",
+    "collection": "books",
+    "stem": "02-data-model",
+    "title": "内容模型与索引",
+    "summary": "把 thoughts/posts/books 映射到统一索引。",
+    "published_at": null,
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:2558af77e02edf2d",
+    "tags": [
+      "rust",
+      "book",
+      "产品体验",
+      "reading notes"
+    ],
+    "path": "/books/rust-by-practice/02-data-model",
+    "markdown_path": "/books/rust-by-practice/02-data-model.md",
+    "meta_path": "/books/rust-by-practice/02-data-model.meta.json",
+    "content_path": "books/rust-by-practice/02-data-model.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": "/books/rust-by-practice",
+    "book_title": "Rust by Practice Notes",
+    "chapter_no": 2
+  },
+  "content": {
+    "title": "Content Model and Index",
+    "summary": "Map thoughts, posts, and books into a unified index.",
+    "body_markdown": "Chapter 2 focuses on the content model.\n\nThe index is built once when the service starts, and during runtime it serves only read-only queries, avoiding repeated Markdown parsing on each request."
+  }
+}

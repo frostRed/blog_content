@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:59:20.779154406+00:00",
+  "source": {
+    "id": "thought:20260313-0233-u5982-u679c-u79c1-u6709-vibing-code-u7684-u4ee3-u7801-u9",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260313-0233-u5982-u679c-u79c1-u6709-vibing-code-u7684-u4ee3-u7801-u9",
+    "published_at": "2026-03-13T02:33:18.787477455+00:00",
+    "updated_at": "2026-03-17T04:59:55+00:00",
+    "content_hash": "fnv1a64:908b1ae773c4a6da",
+    "tags": [],
+    "path": "/thoughts/20260313-0233-u5982-u679c-u79c1-u6709-vibing-code-u7684-u4ee3-u7801-u9",
+    "markdown_path": "/thoughts/20260313-0233-u5982-u679c-u79c1-u6709-vibing-code-u7684-u4ee3-u7801-u9.md",
+    "meta_path": "/thoughts/20260313-0233-u5982-u679c-u79c1-u6709-vibing-code-u7684-u4ee3-u7801-u9.meta.json",
+    "content_path": "thoughts/2026/20260313-0233-u5982-u679c-u79c1-u6709-vibing-code-u7684-u4ee3-u7801-u9.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "If the default assumption behind vibe coding is that no human will read the code, then maybe the constraint that each file stay under a few hundred lines no longer means much. Maybe it is worth trying a switch from mono repo to mono file.\n\nBut going all the way at once, cutting out the compiler and having the model generate assembly or even binaries directly, still seems a bit too radical. Maybe what is needed is another translation layer in the middle, one adapted to the model. \"Any problem can be solved by adding another layer in the middle.\""
+  }
+}

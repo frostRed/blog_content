@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:59:49.141659233+00:00",
+  "source": {
+    "id": "thought:20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5",
+    "published_at": "2026-03-27T18:09:05.387965409+00:00",
+    "updated_at": "2026-03-27T18:09:05+00:00",
+    "content_hash": "fnv1a64:7a4e0f416ce0c7ea",
+    "tags": [],
+    "path": "/thoughts/20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5",
+    "markdown_path": "/thoughts/20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5.md",
+    "meta_path": "/thoughts/20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5.meta.json",
+    "content_path": "thoughts/2026/20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "Codex needs more than remote control. It also needs to be able to log into remote machines over `ssh` on its own."
+  }
+}

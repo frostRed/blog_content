@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:59:58.012430805+00:00",
+  "source": {
+    "id": "thought:20260329-1309-u5b66-u4e86-u5f88-u591a-u5f88-u591a-u5173-u4e8e-u793e-u4",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260329-1309-u5b66-u4e86-u5f88-u591a-u5f88-u591a-u5173-u4e8e-u793e-u4",
+    "published_at": "2026-03-29T13:09:09.111295152+00:00",
+    "updated_at": "2026-03-30T03:23:43+00:00",
+    "content_hash": "fnv1a64:c54d721bef721a6d",
+    "tags": [],
+    "path": "/thoughts/20260329-1309-u5b66-u4e86-u5f88-u591a-u5f88-u591a-u5173-u4e8e-u793e-u4",
+    "markdown_path": "/thoughts/20260329-1309-u5b66-u4e86-u5f88-u591a-u5f88-u591a-u5173-u4e8e-u793e-u4.md",
+    "meta_path": "/thoughts/20260329-1309-u5b66-u4e86-u5f88-u591a-u5f88-u591a-u5173-u4e8e-u793e-u4.meta.json",
+    "content_path": "thoughts/2026/20260329-1309-u5b66-u4e86-u5f88-u591a-u5f88-u591a-u5173-u4e8e-u793e-u4.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "We learn all kinds of grand theoretical models about society, the state, and history. They seem to offer the individual a kind of psychological comfort, a sense of \"thinking one understands.\" But when it comes to macro models of one's own lived experience, they never seem quite convincing. After living year after year, from what broad perspective are we supposed to look at ourselves?\n\nHow do we make a passage from the former to the latter, or from the latter back to the former?"
+  }
+}

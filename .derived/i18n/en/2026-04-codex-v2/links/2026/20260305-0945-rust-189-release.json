@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:58:00.200570142+00:00",
+  "source": {
+    "id": "link:20260305-0945-rust-189-release",
+    "kind": "link",
+    "collection": "links",
+    "stem": "20260305-0945-rust-189-release",
+    "title": "Rust 1.89 读后：工程体验继续提升",
+    "summary": "这次发布最值得关注的是增量编译和诊断信息的稳定性改进。",
+    "published_at": "2026-03-05T09:45:00+00:00",
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:78984e67a653585e",
+    "tags": [
+      "rust",
+      "release-note"
+    ],
+    "path": "/links/20260305-0945-rust-189-release",
+    "markdown_path": "/links/20260305-0945-rust-189-release.md",
+    "meta_path": "/links/20260305-0945-rust-189-release.meta.json",
+    "content_path": "links/2026/20260305-0945-rust-189-release.md",
+    "reply_to_path": null,
+    "source_title": "Rust 1.89.0",
+    "source_host": "blog.rust-lang.org",
+    "target_url": "https://blog.rust-lang.org/2026/03/01/Rust-1.89.0.html",
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "title": "After Rust 1.89: the engineering experience keeps improving",
+    "summary": "The most notable part of this release is the steady improvement in incremental compilation and diagnostic reliability.",
+    "body_markdown": "This link note records my core takeaway after reading the Rust 1.89 release notes.\n\nWhat matters most to me:\n\n- Incremental compilation is more stable in large codebases.\n- Several error messages are more helpful for day-to-day debugging.\n\nIf you maintain a medium-to-large Rust codebase, this version is worth upgrading and validating soon."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:57:53.353424907+00:00",
+  "source": {
+    "id": "gallery:mountain-silhouette",
+    "kind": "gallery",
+    "collection": "galleries",
+    "stem": "mountain-silhouette",
+    "title": "山影",
+    "summary": "一组山麓剪影集",
+    "published_at": "2026-03-07T00:00:00+00:00",
+    "updated_at": null,
+    "content_hash": "fnv1a64:d1447e1ed5a4c241",
+    "tags": [
+      "photo",
+      "test"
+    ],
+    "path": "/galleries/mountain-silhouette",
+    "markdown_path": "/galleries/2026/mountain-silhouette/index.md",
+    "meta_path": "/galleries/2026/mountain-silhouette/media.json",
+    "content_path": "galleries/2026/mountain-silhouette/index.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null,
+    "gallery_image_ids": [
+      "001",
+      "002",
+      "003"
+    ]
+  },
+  "content": {
+    "title": "Mountain silhouettes",
+    "summary": "A set of mountain foothill silhouettes",
+    "body_markdown": "This is a multi-image gallery set for integration testing.\n\nIt has the layered silhouettes of many mountain ranges, the relaxed lines of a single mountain, and the mountain shadow cast in the golden light of sunset.",
+    "gallery_images": [
+      {
+        "id": "001",
+        "alt": "Layered mountain ranges seen from afar in the park",
+        "caption": "As your gaze lifts, it feels as if nature's veil is being lifted layer by layer."
+      },
+      {
+        "id": "002",
+        "alt": "A large mountain in the distance",
+        "caption": "Plate 02: Its flowing lines seem to let our spirits unfurl with them."
+      },
+      {
+        "id": "003",
+        "alt": "The sunset beneath a lakeside pier",
+        "caption": "Plate 03: The valley's embrace is enough to hold the sun."
+      }
+    ]
+  }
+}

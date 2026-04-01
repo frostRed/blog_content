@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:58:30.580861431+00:00",
+  "source": {
+    "id": "post:2026-03-05-tag-aggregation-samples",
+    "kind": "post",
+    "collection": "posts",
+    "stem": "2026-03-05-tag-aggregation-samples",
+    "title": "标签聚合样本：跨类型复用",
+    "summary": "补一篇 post，用来验证标签在 thoughts/posts/links 间的聚合体验。",
+    "published_at": "2026-03-05T00:00:00+00:00",
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:f65d386f2210c540",
+    "tags": [
+      "产品体验",
+      "release note",
+      "内容策略"
+    ],
+    "path": "/posts/2026-03-05-tag-aggregation-samples",
+    "markdown_path": "/posts/2026-03-05-tag-aggregation-samples.md",
+    "meta_path": "/posts/2026-03-05-tag-aggregation-samples.meta.json",
+    "content_path": "posts/2026/2026-03-05-tag-aggregation-samples.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "title": "Tag aggregation sample: cross-type reuse",
+    "summary": "An extra post to verify how tags aggregate across thoughts, posts, and links.",
+    "body_markdown": "This post is sample content for the tag system.\n\nThe goal is not to lay out a complete methodology, but to verify:\n\n1. The tag aggregation page can interleave different content types.\n2. The context of the same tag remains clear across different types.\n3. Index pages do not turn into thin pages just because of \"single-post tags\"."
+  }
+}

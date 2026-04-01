@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:58:59.730997455+00:00",
+  "source": {
+    "id": "thought:20260305-1413-thought",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260305-1413-thought",
+    "title": "测试想法的发布",
+    "published_at": "2026-03-05T14:13:15.380259966+00:00",
+    "updated_at": "2026-03-05T14:13:15+00:00",
+    "content_hash": "fnv1a64:8264d25a59582f3c",
+    "tags": [
+      "测试"
+    ],
+    "path": "/thoughts/20260305-1413-thought",
+    "markdown_path": "/thoughts/20260305-1413-thought.md",
+    "meta_path": "/thoughts/20260305-1413-thought.meta.json",
+    "content_path": "thoughts/2026/20260305-1413-thought.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "title": "Publishing test",
+    "body_markdown": "Testing the publish flow and checking whether the push goes through."
+  }
+}

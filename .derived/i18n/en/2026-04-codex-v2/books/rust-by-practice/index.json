@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:57:45.620824351+00:00",
+  "source": {
+    "id": "book:rust-by-practice",
+    "kind": "book",
+    "collection": "books",
+    "stem": "rust-by-practice",
+    "title": "Rust by Practice Notes",
+    "summary": "按章节整理的 Rust 实战笔记。",
+    "published_at": null,
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:c59031f4f1921ee9",
+    "tags": [
+      "rust",
+      "book",
+      "产品体验",
+      "reading notes"
+    ],
+    "path": "/books/rust-by-practice",
+    "markdown_path": "/books/rust-by-practice/index.md",
+    "meta_path": "/books/rust-by-practice.meta.json",
+    "content_path": "books/rust-by-practice/index.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "title": "Rust by Practice Notes",
+    "summary": "Rust practice notes organized by chapter.",
+    "body_markdown": "This is a small chapter-based notebook, meant so that each chapter can be read on its own."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:58:23.902901665+00:00",
+  "source": {
+    "id": "post:2026-03-05-hello-blog",
+    "kind": "post",
+    "collection": "posts",
+    "stem": "2026-03-05-hello-blog",
+    "title": "Hello, blog.jelada.dev",
+    "summary": "这是第一篇帖子，用于验证 posts 列表、详情、RSS 与 sitemap 全链路。",
+    "published_at": "2026-03-05T00:00:00+00:00",
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:720896daa2a7f169",
+    "tags": [
+      "release",
+      "blog"
+    ],
+    "path": "/posts/2026-03-05-hello-blog",
+    "markdown_path": "/posts/2026-03-05-hello-blog.md",
+    "meta_path": "/posts/2026-03-05-hello-blog.meta.json",
+    "content_path": "posts/2026/2026-03-05-hello-blog.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "title": "Hello, blog.jelada.dev",
+    "summary": "This is the first post, used to verify the full pipeline for the posts list, detail page, RSS, and sitemap.",
+    "body_markdown": "Welcome to the new blog site.\n\nThis site is for display only, with no online editing. All content lives in the repository and is managed in Markdown.\n\n```rust\nfn main() {\n    println!(\"blogd is live\");\n}\n```"
+  }
+}

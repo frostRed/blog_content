@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:58:43.794968770+00:00",
+  "source": {
+    "id": "thought:20260305-0930-style-experiments",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260305-0930-style-experiments",
+    "published_at": "2026-03-05T09:30:00+00:00",
+    "updated_at": "2026-03-05T13:00:07+00:00",
+    "content_hash": "fnv1a64:cb37f9c5ac5800b2",
+    "tags": [
+      "ui",
+      "notes"
+    ],
+    "path": "/thoughts/20260305-0930-style-experiments",
+    "markdown_path": "/thoughts/20260305-0930-style-experiments.md",
+    "meta_path": "/thoughts/20260305-0930-style-experiments.meta.json",
+    "content_path": "thoughts/2026/20260305-0930-style-experiments.md",
+    "reply_to_path": "/thoughts/20260305-0900-launching-blogd",
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "I'm planning to give the blog a paper-like texture instead of following the usual purple dark-theme template route."
+  }
+}

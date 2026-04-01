@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:59:26.269428392+00:00",
+  "source": {
+    "id": "thought:20260313-1528-u5728-u4ee3-u7801-u751f-u6210-u65b9-u9762-llm-u6a21-u578",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260313-1528-u5728-u4ee3-u7801-u751f-u6210-u65b9-u9762-llm-u6a21-u578",
+    "published_at": "2026-03-13T15:28:47.384854878+00:00",
+    "updated_at": "2026-03-13T15:28:47+00:00",
+    "content_hash": "fnv1a64:3156228216b485e7",
+    "tags": [],
+    "path": "/thoughts/20260313-1528-u5728-u4ee3-u7801-u751f-u6210-u65b9-u9762-llm-u6a21-u578",
+    "markdown_path": "/thoughts/20260313-1528-u5728-u4ee3-u7801-u751f-u6210-u65b9-u9762-llm-u6a21-u578.md",
+    "meta_path": "/thoughts/20260313-1528-u5728-u4ee3-u7801-u751f-u6210-u65b9-u9762-llm-u6a21-u578.meta.json",
+    "content_path": "thoughts/2026/20260313-1528-u5728-u4ee3-u7801-u751f-u6210-u65b9-u9762-llm-u6a21-u578.md",
+    "reply_to_path": null,
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "For code generation, LLMs are already more than capable. Maybe the next domain is ops and security. Imagine this: a truly sharp security engineer watching every server log around the clock without sleep. That would be a real watchdog."
+  }
+}

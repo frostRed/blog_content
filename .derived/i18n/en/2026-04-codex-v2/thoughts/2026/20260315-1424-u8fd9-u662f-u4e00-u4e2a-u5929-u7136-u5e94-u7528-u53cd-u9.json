@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T00:59:42.162925290+00:00",
+  "source": {
+    "id": "thought:20260315-1424-u8fd9-u662f-u4e00-u4e2a-u5929-u7136-u5e94-u7528-u53cd-u9",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260315-1424-u8fd9-u662f-u4e00-u4e2a-u5929-u7136-u5e94-u7528-u53cd-u9",
+    "published_at": "2026-03-15T14:24:44.650030135+00:00",
+    "updated_at": "2026-03-15T14:24:44+00:00",
+    "content_hash": "fnv1a64:8be050997cc01712",
+    "tags": [],
+    "path": "/thoughts/20260315-1424-u8fd9-u662f-u4e00-u4e2a-u5929-u7136-u5e94-u7528-u53cd-u9",
+    "markdown_path": "/thoughts/20260315-1424-u8fd9-u662f-u4e00-u4e2a-u5929-u7136-u5e94-u7528-u53cd-u9.md",
+    "meta_path": "/thoughts/20260315-1424-u8fd9-u662f-u4e00-u4e2a-u5929-u7136-u5e94-u7528-u53cd-u9.meta.json",
+    "content_path": "thoughts/2026/20260315-1424-u8fd9-u662f-u4e00-u4e2a-u5929-u7136-u5e94-u7528-u53cd-u9.md",
+    "reply_to_path": "/thoughts/20260315-1419-u5373-u4f7f-gpt-5-4-pro-u8bbe-u8ba1-u4e86-u4e00-u4e2a-u8",
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "This is a natural place to apply feedback control."
+  }
+}

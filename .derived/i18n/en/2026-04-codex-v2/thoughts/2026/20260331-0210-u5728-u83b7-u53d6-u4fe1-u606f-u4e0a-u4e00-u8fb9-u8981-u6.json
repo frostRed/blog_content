@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "profile_id": "2026-04-codex-v2",
+  "target_lang": "en",
+  "runtime": "codex",
+  "model_id": "gpt-5.4",
+  "prompt_version": "blog-en-v5",
+  "glossary_version": "glossary-en-v1",
+  "generated_at": "2026-04-01T01:00:05.647476629+00:00",
+  "source": {
+    "id": "thought:20260331-0210-u5728-u83b7-u53d6-u4fe1-u606f-u4e0a-u4e00-u8fb9-u8981-u6",
+    "kind": "thought",
+    "collection": "thoughts",
+    "stem": "20260331-0210-u5728-u83b7-u53d6-u4fe1-u606f-u4e0a-u4e00-u8fb9-u8981-u6",
+    "published_at": "2026-03-31T02:10:10.483127216+00:00",
+    "updated_at": "2026-03-31T02:10:10+00:00",
+    "content_hash": "fnv1a64:3bf2ca8c57aa51d1",
+    "tags": [],
+    "path": "/thoughts/20260331-0210-u5728-u83b7-u53d6-u4fe1-u606f-u4e0a-u4e00-u8fb9-u8981-u6",
+    "markdown_path": "/thoughts/20260331-0210-u5728-u83b7-u53d6-u4fe1-u606f-u4e0a-u4e00-u8fb9-u8981-u6.md",
+    "meta_path": "/thoughts/20260331-0210-u5728-u83b7-u53d6-u4fe1-u606f-u4e0a-u4e00-u8fb9-u8981-u6.meta.json",
+    "content_path": "thoughts/2026/20260331-0210-u5728-u83b7-u53d6-u4fe1-u606f-u4e0a-u4e00-u8fb9-u8981-u6.md",
+    "reply_to_path": "/thoughts/20260327-1809-codex-u4e0d-u4f46-u9700-u8981-u80fd-u8fdc-u7a0b-u63a7-u5",
+    "source_title": null,
+    "source_host": null,
+    "target_url": null,
+    "media_type": null,
+    "creator": null,
+    "year": null,
+    "rating": null,
+    "book_path": null,
+    "book_title": null,
+    "chapter_no": null
+  },
+  "content": {
+    "body_markdown": "For gathering information, one side needs `web fetch`, and the other needs access to a remote machine.\n\nFor workflow orchestration, there needs to be a feedback loop: the spec should be questioned and refined again and again, and the fit between the code and the spec should be questioned again and again too.\n\nIn the end, there also needs to be a tool that lets a person grasp the whole picture and steer it remotely."
+  }
+}
